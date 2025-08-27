@@ -40,7 +40,7 @@ Run Alphapose : python scripts\demo_inference.py --cfg configs\coco\resnet\256x1
 ## Related Papers
 - [AlphaPose: Whole-Body Regional Multi-Person Pose Estimation and Tracking in Real-Time](docs/alphapose_summary.md)
 - [MotionBERT: A Unified Perspective on Learning Human Motion Representations](docs/motionbert_summary.md)
-- [MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](docs/metrabs_summary.md)
+
 
 ## Contributing
 Fork and PR. See issues for bugs.
