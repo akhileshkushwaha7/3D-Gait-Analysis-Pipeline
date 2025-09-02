@@ -46,6 +46,7 @@ A modular pipeline for **2D and 3D human gait analysis**. This project integrate
 ├── MotionBERT/                # MotionBERT submodule
 ├── requirements.txt
 └── README.md
+```
 ## Project Structure
 
 - **scripts/**: Pipeline automation scripts.  
