@@ -34,15 +34,9 @@ A modular pipeline for **2D and 3D human gait analysis**. This project integrate
 
 ```bash
 ├── scripts/
-│   └── Custom scripts for rotation, processing, and visualization
-├── output/
-│   ├── alphapose-results/     # JSON and video outputs from AlphaPose
-│   └── results/               # MotionBERT 3D outputs
-├── pretrained_models/         # AlphaPose checkpoints
-├── configs/                   # AlphaPose model configurations
-├── images/                    # Example figures and visualizations
-├── AlphaPose/                 # AlphaPose submodule
-├── MotionBERT/                # MotionBERT submodule
+│   └── Custom scripts for rotation, processing, and visualization 
+├── AlphaPose/                 # AlphaPose submodule with all necessary pretrained modules included
+├── MotionBERT/                # MotionBERT submodule with all necessary pretrained modules included
 ├── requirements.txt
 └── README.md
 ```
