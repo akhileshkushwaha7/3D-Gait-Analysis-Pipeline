@@ -43,8 +43,6 @@ A modular pipeline for **2D and 3D human gait analysis**. This project integrate
 ## Project Structure
 
 - **scripts/**: Pipeline automation scripts.  
-- **output/**: Stores all generated files.  
-- **images/**: Static example plots.  
 - **AlphaPose/** & **MotionBERT/**: Submodules containing core libraries.  
 
 ---
