@@ -33,7 +33,6 @@ A modular pipeline for **2D and 3D human gait analysis**. This project integrate
 ## Project Structure
 
 ```bash
-.
 ├── scripts/
 │   └── Custom scripts for rotation, processing, and visualization
 ├── output/
@@ -81,6 +80,9 @@ A modular pipeline for **2D and 3D human gait analysis**. This project integrate
    git checkout -b feature-branch
 3. git commit -m "Add feature"
 4. git push origin feature-branch
+
+---
+
 ## License
 
 **MIT License** © 2025 Akhilesh Singh
